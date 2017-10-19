@@ -12,9 +12,20 @@ seo:
 
 <iframe src="https://player.vimeo.com/video/121404093" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+* [What are Lists and Segments?](#-What-are-Lists-and-Segments)
+* [Managing Your Lists](#-Managing-Your-Lists)
+    * [Change the List Name](#-Change-the-List-Name)
+    * [Edit a List](#-Edit-a-List)
+    * [Delete a List](#-Delete-a-List)
+    * [Create a List](#-Create-a-List)
+    * [Add Contacts to a list](#-Add-Contacts-to-a-list)
+    * [Remove Contacts From a List](#-Remove-Contacts-From-a-List)
+* [Create a Segment](#-Create-a-Segment)
+* [Export a Segment](#-Export-a-Segment)
+
 {% anchor h2 %}
 What are Lists and Segments?
-{% endanchor %}
+{% endanchor h2 %}
 
 Lists are simply static collections of Marketing Campaigns contacts. By default, any new contacts you add are stored under ALL CONTACTS. You may create new lists when adding contacts either manually, or when uploading a CSV (comma separated values) file.
 
@@ -28,7 +39,7 @@ You must create at least one list or segment in order to send a campaign.
 
 {% anchor h2 %}
 Managing Your Lists
-{% endanchor %}
+{% endanchor h2 %}
 
 <iframe src="https://player.vimeo.com/video/227937591" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -38,7 +49,7 @@ All of your list management features can be reached through the gear icon on the
 
 {% anchor h3 %}
 Change the List Name
-{% endanchor %}
+{% endanchor h3 %}
 
 To change the name of a list, view the list and then click the pencil icon next to the name of the list at the top of the page. You will be able to edit the name and then hit your enter key to save the change.
 
@@ -46,19 +57,19 @@ To change the name of a list, view the list and then click the pencil icon next 
 
 {% anchor h3 %}
 Edit a List
-{% endanchor %}
+{% endanchor h3 %}
 
 When you select the “Edit List” option, you will be shown the upload contacts options that will allow you to add contacts directly to this list. You will also be able to create a segment of this list directly from this window.
 
 {% anchor h3 %}
 Delete a List
-{% endanchor %}
+{% endanchor h3 %}
 
 If you would like to delete a list, go to [Contacts]({{site.marketing_campaigns_url}}/contacts) where you will see a list of your contacts, then click the gear icon in the same row as your list name and select “Delete”. Once you have confirmed that you do in fact want to delete this list, only the association of a contact to this list will be deleted. Your contact’s information will continue to exist in your contact database.
 
 {% anchor h3 %}
 Create a List
-{% endanchor %}
+{% endanchor h3 %}
 You create lists when you upload contacts, please check out our information on [uploading contacts]({{root_url}}/User_Guide/Marketing_Campaigns/contacts.html#-Uploading-Contacts) for more information.
 
 {% info %}
@@ -67,13 +78,13 @@ You can create up to 100 lists.
 
 {% anchor h3 %}
 Add Contacts to a list
-{% endanchor %}
+{% endanchor h3 %}
 
 To add contacts to a list, click the gear icon next to the list name and select “Edit List”. A window will pop out where you can upload a new CSV or manually add a contact.
 
 {% anchor h3 %}
 Remove Contacts From a List
-{% endanchor %}
+{% endanchor h3 %}
 
 Click on the name of your list to view all the contacts on the list. Check the box next to the contacts you would like to remove. You will notice that a button at the top right corner will keep track of how many contacts you have selected. Click the button with the selected count and choose the option “Remove from this list” to take these contacts off the list.
 
@@ -86,7 +97,7 @@ If you would like to remove these contacts from your contact database, you can d
 
 {% anchor h2 %}
 Create a Segment
-{% endanchor %}
+{% endanchor h2 %}
 
 <iframe src="https://player.vimeo.com/video/229916004" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -129,7 +140,7 @@ engaged they are with a specific campaign. This is especially useful for doing t
 
 {% anchor h3 %}
 Export a Segment
-{% endanchor %}
+{% endanchor h3 %}
 
 Export the contacts on a list by clicking the gear icon in the same row as your segment and then choosing the “export”
 option. This will trigger SendGrid to send an email to the primary email address on the account that includes a link to
