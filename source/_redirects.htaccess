@@ -276,6 +276,7 @@ Redirect 301 /Classroom/Basics/Marketing_Campaigns/migration_guide_part_3_moving
 Redirect 301 /Classroom/Basics/Misc/where_can_i_enable_subscription_tracking.html https://sendgrid.com/docs/User_Guide/Settings/tracking.html#-Subscription-Tracking
 Redirect 301 /Classroom/Basics/marketing_campaigns_video_tutorials.html https://sendgrid.com/docs/Classroom/Basics/Marketing_Campaigns/marketing_campaigns_video_tutorials.html
 Redirect 301 /Classroom/Basics/Marketing_Campaigns/remove_bounced_addresses.html https://sendgrid.com/docs/Classroom/Basics/Marketing_Campaigns/how_to_remove_unusable_contacts.html
+Redirect 301 /Classroom/Basics/Security/two_factor_authentication_faq.html https://sendgrid.com/docs/User_Guide/Settings/two_factor_authentication.html
 
 
 #######
