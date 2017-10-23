@@ -1,5 +1,7 @@
 # SendGrid Documentation
 
+![SendGrid Logo](https://uiux.s3.amazonaws.com/2016-logos/email-logo%402x.png)
+
 [![Build Status](https://travis-ci.org/sendgrid/docs.svg?branch=develop)](https://travis-ci.org/sendgrid/docs)
 [![Dependency Status](https://gemnasium.com/sendgrid/docs.svg)](https://gemnasium.com/sendgrid/docs)
 
